@@ -1,6 +1,11 @@
 # Diary (Python - Django)
 Accountability is key. This repository's purpose is to track my day to day evolution
 
+## 08/08/2024   
+
+- Started the day by replacing deprecated code. ake_random_password() by from django.utils.crypto import get_random_string
+- and ended up adding functionality to send email notifications 
+
 ## 07/08/2024   
 
 - Implementation of forms and debugging.
