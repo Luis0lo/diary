@@ -1,6 +1,10 @@
 # Diary (Python - Django)
 Accountability is key. This repository's purpose is to track my day to day evolution
 
+## 13/08/2024   
+
+- Day mostly spent on debugging and fixing redirect links.
+
 ## 12/08/2024   
 
 - Restructure login to redirect users.
