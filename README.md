@@ -1,6 +1,10 @@
 # Diary (Python - Django)
 Accountability is key. This repository's purpose is to track my day to day evolution
 
+## 14/08/2024   
+
+- remove links to external libraries and update one of the apps to use the latest version of bootstrap
+
 ## 13/08/2024   
 
 - Day mostly spent on debugging and fixing redirect links.
