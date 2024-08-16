@@ -1,6 +1,10 @@
 # Diary (Python - Django)
 Accountability is key. This repository's purpose is to track my day to day evolution
 
+## 16/08/2024   
+
+- add a new model and field to an existent model and update all instances required
+
 ## 14/08/2024   
 
 - remove links to external libraries and update one of the apps to use the latest version of bootstrap
