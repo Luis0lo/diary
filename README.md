@@ -1,9 +1,14 @@
 # Diary (Python - Django)
 Accountability is key. This repository's purpose is to track my day to day evolution
 
+## 29/08/2024   
+
+- Add issue templates and views so user can report issues.
+- Review and improve code on several parts of the project increasing 50% the speed in one main dashboard due to query duplication
+
 ## 23/08/2024   
 
-- Bug fixing addition of a couple of edit views for add forms alreasy existent
+- Bug fixing addition of a couple of edit views for add forms already existent
     
 ## 16/08/2024   
 
