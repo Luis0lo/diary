@@ -1,6 +1,12 @@
 # Diary (Python - Django)
 Accountability is key. This repository's purpose is to track my day to day evolution
 
+## 12/01/2025   
+
+- Employer app deployment.
+- I spent part of the week implementing minor changes to the deployed app and fixing some bugs.
+- Finally, I started looking into building up logic inside the model by using instance methods.
+
 ## 05/01/2025   
 
 - The first 2 days of this new year have been fixing some bugs and preparing for app deployment on the second week of the year
