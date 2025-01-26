@@ -2,6 +2,10 @@
 Accountability is key. This repository's purpose is to track my day-to-day evolution
 
 ## 19/01/2025  
+- Small weekly changes to make the app meet stakeholder's requirements.
+- Display text fields taking into consideration line breaks to improve readability.
+
+## 19/01/2025  
 - The most challenging this week was to add a new set of roles for the IT department. Along with this addition, I had to build extra views for IT users to manage other users' assets like mobiles, laptops...
 - I also worked on automated tasks to alert HR of the need to do risk assessments for the users.
 - Finally, I ended the week by updating some views to make them more secure and avoid any data leaks.
