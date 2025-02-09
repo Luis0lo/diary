@@ -1,6 +1,12 @@
 # Diary (Python - Django)
 Accountability is key. This repository's purpose is to track my day-to-day evolution
 
+## 09/02/2025  
+- Meeting to discuss the next milestone (new app)
+- Improve current ui/ux
+- Update logic around absences
+
+
 ## 02/02/2025  
 - Refactored some views for better error feedback.
 - Added a new feature to submit partial absences (this was a big pain due to having an hour field and needing a date time aware)
