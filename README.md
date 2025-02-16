@@ -1,6 +1,9 @@
 # Diary (Python - Django)
 Accountability is key. This repository's purpose is to track my day-to-day evolution
 
+## 16/02/2025  
+- Update permission to handle view and non view function
+
 ## 09/02/2025  
 - Meeting to discuss the next milestone (new app)
 - Improve current ui/ux
