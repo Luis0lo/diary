@@ -1,6 +1,10 @@
 # Diary (Python - Django)
 Accountability is key. This repository's purpose is to track my day-to-day evolution
 
+
+## 08/03/2025  
+- Mostly spent refactoring some functionality and improving some features.
+
 ## 23/02/2025  
 - Start moving logic into class models to track better the existent functionality across the app.
 - Improve the scheduler calendar by giving the option to select the month and move forward and backward by month.
